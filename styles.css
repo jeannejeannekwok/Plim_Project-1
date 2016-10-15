@@ -52,8 +52,8 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
-  color: white
+  color: white;
+  color: white;
 }
 
 header {
